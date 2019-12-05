@@ -1,0 +1,5 @@
+Car metrics
+speed,45km/h
+acc,1.3m/s
+distance,100km
+price,$15000
